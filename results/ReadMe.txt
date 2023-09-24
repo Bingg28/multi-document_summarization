@@ -1,0 +1,2 @@
+The folder "group12" corresponds to the results of comparative experiments with different variant methods.
+The folder "group3" corresponds to the results of experiments compared with state-of-the-art methods.
