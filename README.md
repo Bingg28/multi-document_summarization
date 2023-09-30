@@ -1,2 +1,2 @@
 # multi-document_summarization
-https://zenodo.org/badge/695545767.svg
+[![DOI](https://zenodo.org/badge/695545767.svg)](https://zenodo.org/badge/latestdoi/695545767)
